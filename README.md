@@ -14,4 +14,4 @@ This project was constucted using:
 
 Open web browser
 
-Navigate to heroku  project deployment url http:// 
+Navigate to heroku  project deployment url https://menu-ice-cream.herokuapp.com/
