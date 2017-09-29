@@ -1,0 +1,14 @@
+{
+  "name": "ice-cream-menu",
+  "version": "1.0.0",
+  "description": "A project that features a sample wepage displaying the menu items of an ice cream shop. This project was constucted using:",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
